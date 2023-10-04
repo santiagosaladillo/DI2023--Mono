@@ -1,0 +1,9 @@
+/home/iago/Projects/0_Mono_0_HolaMundoConsola/0_Mono_0_HolaMundoConsola/bin/Debug/0_Mono_0_HolaMundoConsola.exe
+/home/iago/Projects/0_Mono_0_HolaMundoConsola/0_Mono_0_HolaMundoConsola/bin/Debug/0_Mono_0_HolaMundoConsola.pdb
+/home/iago/Projects/0_Mono_0_HolaMundoConsola/0_Mono_0_HolaMundoConsola/obj/x86/Debug/0_Mono_0_HolaMundoConsola.csproj.AssemblyReference.cache
+/home/iago/Projects/0_Mono_0_HolaMundoConsola/0_Mono_0_HolaMundoConsola/obj/x86/Debug/0_Mono_0_HolaMundoConsola.csproj.CoreCompileInputs.cache
+/home/iago/Projects/0_Mono_0_HolaMundoConsola/0_Mono_0_HolaMundoConsola/obj/x86/Debug/0_Mono_0_HolaMundoConsola.exe
+/home/iago/Projects/0_Mono_0_HolaMundoConsola/0_Mono_0_HolaMundoConsola/obj/x86/Debug/0_Mono_0_HolaMundoConsola.pdb
+/home/iago/Projects/0_Mono_0_HolaMundoConsola/0_Mono_0_HolaMundoConsola/bin/Debug/MyLibrary.dll
+/home/iago/Projects/0_Mono_0_HolaMundoConsola/0_Mono_0_HolaMundoConsola/bin/Debug/MyLibrary.pdb
+/home/iago/Projects/0_Mono_0_HolaMundoConsola/0_Mono_0_HolaMundoConsola/obj/x86/Debug/0_Mono_0_HolaMundoConsola.csproj.CopyComplete

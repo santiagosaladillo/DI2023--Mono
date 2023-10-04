@@ -1,0 +1,38 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0_Mono_0_HolaMundoConsola", "0_Mono_0_HolaMundoConsola\0_Mono_0_HolaMundoConsola.csproj", "{2B2E075E-642E-4CDB-B39F-06C4DC5D54F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLibrary", "MyLibrary\MyLibrary.csproj", "{54DF6A7E-F3CA-4B6A-A343-118CA4D15D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B2E075E-642E-4CDB-B39F-06C4DC5D54F5}.Debug|x86.ActiveCfg = Debug|x86
+		{2B2E075E-642E-4CDB-B39F-06C4DC5D54F5}.Debug|x86.Build.0 = Debug|x86
+		{2B2E075E-642E-4CDB-B39F-06C4DC5D54F5}.Release|x86.ActiveCfg = Release|x86
+		{2B2E075E-642E-4CDB-B39F-06C4DC5D54F5}.Release|x86.Build.0 = Release|x86
+		{54DF6A7E-F3CA-4B6A-A343-118CA4D15D15}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{54DF6A7E-F3CA-4B6A-A343-118CA4D15D15}.Debug|x86.Build.0 = Debug|Any CPU
+		{54DF6A7E-F3CA-4B6A-A343-118CA4D15D15}.Release|x86.ActiveCfg = Release|Any CPU
+		{54DF6A7E-F3CA-4B6A-A343-118CA4D15D15}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.scope = text/x-csharp
+		$0.TextStylePolicy = $4
+		$4.FileWidth = 80
+		$4.TabsToSpaces = True
+		$4.scope = text/plain
+		$0.StandardHeader = $5
+	EndGlobalSection
+EndGlobal
