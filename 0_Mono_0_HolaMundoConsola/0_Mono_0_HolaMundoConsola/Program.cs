@@ -1,5 +1,5 @@
 ﻿using System;
-using MyLibrary;
+//using MyLibrary;                                  //v2
 
 namespace _Mono_0_HolaMundoConsola
 {
@@ -7,9 +7,9 @@ namespace _Mono_0_HolaMundoConsola
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            MyClass test = new MyClass();
-            Console.WriteLine("Hello {0}", test);
+            Console.WriteLine("Hello World!");  //v1
+            //MyClass test = new MyClass();         //v2
+            //Console.WriteLine("Hello {0}", test); //v2
 
         }
     }
